@@ -1,4 +1,5 @@
 library(shiny)
+
 shinyUI(pageWithSidebar(
     headerPanel("Normal Distribution Claculator"),
     sidebarPanel(
